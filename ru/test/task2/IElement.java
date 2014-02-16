@@ -1,4 +1,4 @@
-package ru.tandemservice.test.task2;
+package ru.test.task2;
 
 /**
  * Элемент

@@ -1,4 +1,4 @@
-package ru.tandemservice.test.task2;
+package ru.test.task2;
 
 import java.util.HashMap;
 import java.util.Map;

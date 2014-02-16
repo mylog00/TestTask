@@ -1,4 +1,4 @@
-package ru.tandemservice.test.task1;
+package ru.test.task1;
 
 import java.util.List;
 
